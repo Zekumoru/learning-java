@@ -1,0 +1,8 @@
+#!/usr/bin/java --source 25
+ 
+public class HelloJava {
+ 
+    public static void main(String[] args) {
+        IO.println("Hello " + args[0]);
+    }
+}
